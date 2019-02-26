@@ -1,8 +1,11 @@
-# Community Radio Data Sets
+# Community Radio Data Sets 
 
-This repo is under construction.
+This repo is under construction. :construction: 
 
-It will gather data sets about community radio and other types of grassroots audio content. I'll try to keep it as comprehensive as possible.
+It will gather data sets about community radio and other types of grassroots audio content. :radio:
+I'll try to keep it as comprehensive as possible.
+
+As these are open data sets, feel free to complete them with valid information. By submitting your work into these data sets, you agree with the terms of the license. 
 
 ## Licensing:
 
